@@ -4,6 +4,6 @@
     "description": "Kreastream Repository",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/kreadir/kreaSky/main//plugins.json"
+        "https://raw.githubusercontent.com/kreadir/kreaSky/main/plugins.json"
     ]
 }
