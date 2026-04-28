@@ -1,0 +1,55 @@
+[
+  {
+    "packageName": "com.kreastream.hdfc",
+    "name": "HDFilmCehennemi",
+    "version": 2,
+    "baseUrl": "https://www.hdfilmcehennemi.nl",
+    "description": "Watch movies from HDFilmCehennemi",
+    "authors": [
+      "Kreastream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "Series"
+    ],
+    "url": "http://10.24.138.41/skystream/builds/HDFilmCehennemi.sky"
+  },
+  {
+    "packageName": "com.kreadir.skystream.kreasky",
+    "name": "KreaSky",
+    "version": 1,
+    "baseUrl": "https://www.themoviedb.org",
+    "description": "KreaSky – Turkish & global content via TMDB + multiple Turkish stream sources",
+    "authors": [
+      "Kreadir"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "url": "http://10.24.138.41/skystream/builds/KreaSky.sky"
+  },
+  {
+    "packageName": "com.kreadir.skystream.trt",
+    "name": "TRT",
+    "version": 1,
+    "baseUrl": "https://www.trt1.com.tr",
+    "description": "TRT Güncel ve Arşiv Diziler",
+    "authors": [
+      "Kreadir"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "url": "http://10.24.138.41/skystream/builds/TRT.sky"
+  }
+]

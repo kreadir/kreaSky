@@ -1,0 +1,9 @@
+{
+    "name": "Kreastream Repository",
+    "packageName": "com.kreastream.repo",
+    "description": "Kreastream Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "http://10.24.138.41/skystream/plugins.json"
+    ]
+}
