@@ -1,5 +1,309 @@
 [
   {
+    "packageName": "com.kreastream.cizgidizi",
+    "name": "CizgiDizi",
+    "version": 1,
+    "baseUrl": "https://cizgivedizi.com",
+    "description": "Turkish movie and TV series provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/CizgiDizi.sky"
+  },
+  {
+    "packageName": "com.kreastream.ddizi",
+    "name": "DDizi",
+    "version": 1,
+    "baseUrl": "https://ddizi.im",
+    "description": "Turkish TV series provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/DDizi.sky"
+  },
+  {
+    "packageName": "com.kreastream.dizifilm",
+    "name": "DiziFilm",
+    "version": 3,
+    "baseUrl": "https://dizifilm.to",
+    "description": "Turkish movie and TV series provider with API support",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/DiziFilm.sky"
+  },
+  {
+    "packageName": "com.kreastream.dizilla",
+    "name": "Dizilla",
+    "version": 1,
+    "baseUrl": "https://dizilla.to",
+    "description": "Turkish movie and TV series provider with encryption support",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/Dizilla.sky"
+  },
+  {
+    "packageName": "com.kreastream.dizimag",
+    "name": "DiziMag",
+    "version": 1,
+    "baseUrl": "https://dizimag.onl",
+    "description": "Turkish movie and TV series provider with encryption support",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/DiziMag.sky"
+  },
+  {
+    "packageName": "com.kreastream.dizimom",
+    "name": "DiziMom",
+    "version": 1,
+    "baseUrl": "https://www.dizimom.fit",
+    "description": "Turkish movie and TV series provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/DiziMom.sky"
+  },
+  {
+    "packageName": "com.kreastream.dizipal",
+    "name": "DiziPal",
+    "version": 1,
+    "baseUrl": "https://dizipal.im",
+    "description": "Turkish movie and TV series provider with platform categories",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/DiziPal.sky"
+  },
+  {
+    "packageName": "com.kreastream.dizipalorijinal",
+    "name": "DiziPal Orijinal",
+    "version": 1,
+    "baseUrl": "https://dizipal1549.com",
+    "description": "Turkish movie and TV series provider with platform content and encryption",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/DiziPalOrijinal.sky"
+  },
+  {
+    "packageName": "com.kreastream.diziyo",
+    "name": "DiziYo",
+    "version": 1,
+    "baseUrl": "https://www.diziyo.so",
+    "description": "Turkish TV series provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/DiziYo.sky"
+  },
+  {
+    "packageName": "com.kreastream.diziyou",
+    "name": "DiziYou",
+    "version": 1,
+    "baseUrl": "https://www.diziyou.one",
+    "description": "Turkish TV series provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/DiziYou.sky"
+  },
+  {
+    "packageName": "com.kreastream.filmekseni",
+    "name": "Film Ekseni",
+    "version": 1,
+    "baseUrl": "https://filmekseni.cc",
+    "description": "Turkish movie and TV series provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/FilmEkseni.sky"
+  },
+  {
+    "packageName": "com.kreastream.filmmakinesi",
+    "name": "FilmMakinesi",
+    "version": 1,
+    "baseUrl": "https://filmmakinesi.to",
+    "description": "Turkish movie and TV series provider with encryption support",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/FilmMakinesi.sky"
+  },
+  {
+    "packageName": "com.kreastream.hdfilmcehennemi",
+    "name": "HDFilmCehennemi",
+    "version": 1,
+    "baseUrl": "https://hdfilmcehennemi.nl",
+    "description": "Turkish movie and TV series provider with encryption support",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/HDFilmCehennemi.sky"
+  },
+  {
+    "packageName": "com.kreastream.hdfilmizle",
+    "name": "HDFilmizle",
+    "version": 1,
+    "baseUrl": "https://hdfilmizle.so",
+    "description": "Turkish movie and TV series provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/HDFilmIzle.sky"
+  },
+  {
+    "packageName": "com.kreastream.inatbox",
+    "name": "InatBox",
+    "version": 1,
+    "baseUrl": "https://diziboxen.help",
+    "description": "Turkish TV, movie and live stream provider with encryption support",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series",
+      "Live"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/InatBox.sky"
+  },
+  {
+    "packageName": "com.kreastream.iptv",
+    "name": "IPTV",
+    "version": 1,
+    "baseUrl": "https://iptv.local",
+    "description": "IPTV playlist provider with M3U support",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "un"
+    ],
+    "categories": [
+      "Live",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/IPTV.sky"
+  },
+  {
+    "packageName": "com.kreastream.jetfilmizle",
+    "name": "JetFilmizle",
+    "version": 1,
+    "baseUrl": "https://jetfilmizle.net",
+    "description": "Turkish movie and TV series provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/JetFilmizle.sky"
+  },
+  {
     "packageName": "com.kreadir.skystream.kreasky",
     "name": "KreaSky",
     "version": 1,
@@ -15,6 +319,93 @@
       "Movie",
       "TvSeries"
     ],
-    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/KreaSky.sky"
+    "url": "http://192.168.1.25/skystream/builds/KreaSky.sky"
+  },
+  {
+    "packageName": "com.kreastream.neonspor",
+    "name": "NeonSpor",
+    "version": 1,
+    "baseUrl": "https://raw.githubusercontent.com/primatzeka/kurbaga/main/NeonSpor/NeonSpor.m3u",
+    "description": "Live sports IPTV channels from M3U playlist",
+    "authors": [
+      "Pitipitii"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Live"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/NeonSpor.sky"
+  },
+  {
+    "packageName": "com.kreastream.selcukflix",
+    "name": "SelcukFlix",
+    "version": 1,
+    "baseUrl": "https://selcukflix.net",
+    "description": "Turkish movie and TV series provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/SelcukFlix.sky"
+  },
+  {
+    "packageName": "com.kreastream.sezonlukdizi",
+    "name": "Sezonluk Dizi",
+    "version": 3,
+    "baseUrl": "https://sezonlukdizi8.com",
+    "description": "Turkish TV series provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TV Series"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/SezonlukDizi.sky"
+  },
+  {
+    "packageName": "com.kreadir.skystream.trt",
+    "name": "TRT",
+    "version": 1,
+    "baseUrl": "https://www.trt1.com.tr",
+    "description": "TRT Güncel ve Arşiv Diziler",
+    "authors": [
+      "Kreadir"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "TvSeries"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/TRT.sky"
+  },
+  {
+    "packageName": "com.kreastream.trtdinle",
+    "name": "TRT Dinle",
+    "version": 1,
+    "baseUrl": "https://www.trtdinle.com",
+    "description": "TRT Radio and audio streaming provider",
+    "authors": [
+      "KreaStream"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Live",
+      "Audio"
+    ],
+    "url": "http://192.168.1.25/skystream/builds/TrtDinle.sky"
   }
 ]
