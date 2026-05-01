@@ -15,7 +15,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/CizgiDizi.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/CizgiDizi.sky"
   },
   {
     "packageName": "com.kreastream.ddizi",
@@ -32,7 +32,7 @@
     "categories": [
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/DDizi.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DDizi.sky"
   },
   {
     "packageName": "com.kreastream.dizifilm",
@@ -50,7 +50,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/DiziFilm.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziFilm.sky"
   },
   {
     "packageName": "com.kreastream.dizilla",
@@ -68,7 +68,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/Dizilla.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/Dizilla.sky"
   },
   {
     "packageName": "com.kreastream.dizimag",
@@ -86,7 +86,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/DiziMag.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziMag.sky"
   },
   {
     "packageName": "com.kreastream.dizimom",
@@ -104,7 +104,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/DiziMom.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziMom.sky"
   },
   {
     "packageName": "com.kreastream.dizipal",
@@ -122,7 +122,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/DiziPal.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziPal.sky"
   },
   {
     "packageName": "com.kreastream.dizipalorijinal",
@@ -140,7 +140,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/DiziPalOrijinal.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziPalOrijinal.sky"
   },
   {
     "packageName": "com.kreastream.diziyo",
@@ -157,7 +157,7 @@
     "categories": [
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/DiziYo.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziYo.sky"
   },
   {
     "packageName": "com.kreastream.diziyou",
@@ -174,7 +174,7 @@
     "categories": [
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/DiziYou.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziYou.sky"
   },
   {
     "packageName": "com.kreastream.filmekseni",
@@ -192,7 +192,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/FilmEkseni.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/FilmEkseni.sky"
   },
   {
     "packageName": "com.kreastream.filmmakinesi",
@@ -210,7 +210,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/FilmMakinesi.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/FilmMakinesi.sky"
   },
   {
     "packageName": "com.kreastream.hdfilmcehennemi",
@@ -228,7 +228,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/HDFilmCehennemi.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/HDFilmCehennemi.sky"
   },
   {
     "packageName": "com.kreastream.hdfilmizle",
@@ -246,7 +246,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/HDFilmIzle.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/HDFilmIzle.sky"
   },
   {
     "packageName": "com.kreastream.inatbox",
@@ -265,7 +265,7 @@
       "TV Series",
       "Live"
     ],
-    "url": "http://192.168.1.25/skystream/builds/InatBox.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/InatBox.sky"
   },
   {
     "packageName": "com.kreastream.iptv",
@@ -283,7 +283,7 @@
       "Live",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/IPTV.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/IPTV.sky"
   },
   {
     "packageName": "com.kreastream.jetfilmizle",
@@ -301,7 +301,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/JetFilmizle.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/JetFilmizle.sky"
   },
   {
     "packageName": "com.kreadir.skystream.kreasky",
@@ -319,7 +319,7 @@
       "Movie",
       "TvSeries"
     ],
-    "url": "http://192.168.1.25/skystream/builds/KreaSky.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/KreaSky.sky"
   },
   {
     "packageName": "com.kreastream.neonspor",
@@ -336,7 +336,7 @@
     "categories": [
       "Live"
     ],
-    "url": "http://192.168.1.25/skystream/builds/NeonSpor.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/NeonSpor.sky"
   },
   {
     "packageName": "com.kreastream.selcukflix",
@@ -354,7 +354,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/SelcukFlix.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/SelcukFlix.sky"
   },
   {
     "packageName": "com.kreastream.sezonlukdizi",
@@ -371,7 +371,7 @@
     "categories": [
       "TV Series"
     ],
-    "url": "http://192.168.1.25/skystream/builds/SezonlukDizi.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/SezonlukDizi.sky"
   },
   {
     "packageName": "com.kreadir.skystream.trt",
@@ -388,7 +388,7 @@
     "categories": [
       "TvSeries"
     ],
-    "url": "http://192.168.1.25/skystream/builds/TRT.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/TRT.sky"
   },
   {
     "packageName": "com.kreastream.trtdinle",
@@ -406,6 +406,6 @@
       "Live",
       "Audio"
     ],
-    "url": "http://192.168.1.25/skystream/builds/TrtDinle.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/TrtDinle.sky"
   }
 ]
