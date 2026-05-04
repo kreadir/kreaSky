@@ -37,7 +37,7 @@
   {
     "packageName": "com.kreastream.dizifilm",
     "name": "DiziFilm",
-    "version": 3,
+    "version": 4,
     "baseUrl": "https://dizifilm.to",
     "description": "Turkish movie and TV series provider with API support",
     "authors": [
