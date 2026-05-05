@@ -1,6 +1,6 @@
 {
     "name": "Kreastream Repository",
-    "packageName": "com.kreastream.repo",
+    "packageName": "com.kreastream",
     "description": "Kreastream Repository",
     "manifestVersion": 1,
     "pluginLists": [
