@@ -15,7 +15,7 @@
       "Movies",
       "TV Series"
     ],
-    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main//DiziFilm.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziFilm.sky"
   },
   {
     "packageName": "com.kreadir.skystream.kreasky",
@@ -33,6 +33,6 @@
       "Movie",
       "TvSeries"
     ],
-    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main//KreaSky.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/KreaSky.sky"
   }
 ]
