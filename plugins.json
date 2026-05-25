@@ -1,38 +1,1074 @@
 [
   {
-    "packageName": "com.kreastream.dizifilm",
-    "name": "DiziFilm",
-    "version": 4,
-    "baseUrl": "https://dizifilm.to",
-    "description": "Turkish movie and TV series provider with API support",
+    "packageName": "c1porn",
+    "name": "1porn",
+    "version": 1,
+    "baseUrl": "https://www.1porn.tv/",
+    "description": "1porn plugin for skystream",
     "authors": [
-      "KreaStream"
+      "Developer"
     ],
     "languages": [
-      "tr"
+      "en"
     ],
     "categories": [
-      "Movies",
-      "TV Series"
+      "Others"
     ],
-    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziFilm.sky"
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/c1porn.sky"
   },
   {
-    "packageName": "com.kreadir.skystream.kreasky",
-    "name": "KreaSky",
+    "packageName": "c1pron",
+    "name": "1pron",
     "version": 1,
-    "baseUrl": "https://www.themoviedb.org",
-    "description": "KreaSky – Turkish & global content via TMDB + multiple Turkish stream sources",
+    "baseUrl": "https://example.com",
+    "description": "1pron plugin for skystream",
     "authors": [
-      "Kreadir"
+      "Developer"
     ],
     "languages": [
-      "tr"
+      "en"
     ],
     "categories": [
-      "Movie",
-      "TvSeries"
+      "Others"
     ],
-    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/KreaSky.sky"
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/c1pron.sky"
+  },
+  {
+    "packageName": "c777",
+    "name": "777",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "777 plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/c777.sky"
+  },
+  {
+    "packageName": "canimepron",
+    "name": "animepron",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "animepron plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/canimepron.sky"
+  },
+  {
+    "packageName": "cbadtv",
+    "name": "badtv",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "badtv plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cbadtv.sky"
+  },
+  {
+    "packageName": "cbigfuck",
+    "name": "bigfuck",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "bigfuck plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cbigfuck.sky"
+  },
+  {
+    "packageName": "cbustybus",
+    "name": "Bustybus",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "Bustybus plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cbustybus.sky"
+  },
+  {
+    "packageName": "ccomic24",
+    "name": "comic24",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "comic24 plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/ccomic24.sky"
+  },
+  {
+    "packageName": "ccomicsvalley",
+    "name": "comicsvalley",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "comicsvalley plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/ccomicsvalley.sky"
+  },
+  {
+    "packageName": "ceporner",
+    "name": "eporner",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "eporner plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/ceporner.sky"
+  },
+  {
+    "packageName": "cexeporn",
+    "name": "exeporn",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "exeporn plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cexeporn.sky"
+  },
+  {
+    "packageName": "cfpoxxx",
+    "name": "fpoxxx",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "fpoxxx plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cfpoxxx.sky"
+  },
+  {
+    "packageName": "cfreepronvideos",
+    "name": "freepronvideos",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "freepronvideos plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cfreepronvideos.sky"
+  },
+  {
+    "packageName": "cfullpronxxx",
+    "name": "fullpronxxx",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "fullpronxxx plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cfullpronxxx.sky"
+  },
+  {
+    "packageName": "chappypron",
+    "name": "happypron",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "happypron plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/chappypron.sky"
+  },
+  {
+    "packageName": "chdpronfree",
+    "name": "hdpronfree",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "hdpronfree plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/chdpronfree.sky"
+  },
+  {
+    "packageName": "chindipron",
+    "name": "hindipron",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "hindipron plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/chindipron.sky"
+  },
+  {
+    "packageName": "chornyhill",
+    "name": "hornyhill",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "hornyhill plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/chornyhill.sky"
+  },
+  {
+    "packageName": "chornyjav",
+    "name": "hornyjav",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "hornyjav plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/chornyjav.sky"
+  },
+  {
+    "packageName": "ciwank",
+    "name": "iwank",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "iwank plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/ciwank.sky"
+  },
+  {
+    "packageName": "cjavguru",
+    "name": "javguru",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "javguru plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cjavguru.sky"
+  },
+  {
+    "packageName": "cjavtiful",
+    "name": "javtiful",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "javtiful plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cjavtiful.sky"
+  },
+  {
+    "packageName": "cjennymovies",
+    "name": "jennymovies",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "jennymovies plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cjennymovies.sky"
+  },
+  {
+    "packageName": "cletspron",
+    "name": "letspron",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "letspron plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cletspron.sky"
+  },
+  {
+    "packageName": "clobstertube",
+    "name": "lobstertube",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "lobstertube plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/clobstertube.sky"
+  },
+  {
+    "packageName": "cmaturetube",
+    "name": "mature tube",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "mature tube plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cmaturetube.sky"
+  },
+  {
+    "packageName": "cmaxpron",
+    "name": "maxpron",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "maxpron plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cmaxpron.sky"
+  },
+  {
+    "packageName": "cmegatube",
+    "name": "megatube",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "megatube plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cmegatube.sky"
+  },
+  {
+    "packageName": "cmilfmovs",
+    "name": "milfmovs",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "milfmovs plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cmilfmovs.sky"
+  },
+  {
+    "packageName": "cmilfporn",
+    "name": "milfporn",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "milfporn plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cmilfporn.sky"
+  },
+  {
+    "packageName": "cmissav",
+    "name": "missav",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "missav plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cmissav.sky"
+  },
+  {
+    "packageName": "conlybestporn",
+    "name": "onlybestporn",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "onlybestporn plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/conlybestporn.sky"
+  },
+  {
+    "packageName": "cperfectgirls",
+    "name": "perfectgirls",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "perfectgirls plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cperfectgirls.sky"
+  },
+  {
+    "packageName": "cpervezila",
+    "name": "pervezila",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "pervezila plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cpervezila.sky"
+  },
+  {
+    "packageName": "cporn4fans",
+    "name": "porn4fans",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "porn4fans plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cporn4fans.sky"
+  },
+  {
+    "packageName": "cporndae",
+    "name": "porndae",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "porndae plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cporndae.sky"
+  },
+  {
+    "packageName": "cporndoe",
+    "name": "porndoe",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "porndoe plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cporndoe.sky"
+  },
+  {
+    "packageName": "cporndr",
+    "name": "porndr",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "porndr plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cporndr.sky"
+  },
+  {
+    "packageName": "cpornhd3x",
+    "name": "pornhd3x",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "pornhd3x plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cpornhd3x.sky"
+  },
+  {
+    "packageName": "cpornoflix",
+    "name": "pornoflix",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "pornoflix plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cpornoflix.sky"
+  },
+  {
+    "packageName": "cporntv",
+    "name": "porntv",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "porntv plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cporntv.sky"
+  },
+  {
+    "packageName": "cpornvov",
+    "name": "pornvov",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "pornvov plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cpornvov.sky"
+  },
+  {
+    "packageName": "cpron36",
+    "name": "pron36",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "pron36 plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cpron36.sky"
+  },
+  {
+    "packageName": "cprondish",
+    "name": "prondish",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "prondish plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cprondish.sky"
+  },
+  {
+    "packageName": "cprongrey",
+    "name": "prongrey",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "prongrey plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cprongrey.sky"
+  },
+  {
+    "packageName": "cpronhat",
+    "name": "pronhat",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "pronhat plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cpronhat.sky"
+  },
+  {
+    "packageName": "cpronmz",
+    "name": "pronmz",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "pronmz plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cpronmz.sky"
+  },
+  {
+    "packageName": "cpronohd",
+    "name": "pronohd",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "pronohd plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cpronohd.sky"
+  },
+  {
+    "packageName": "cpronsex",
+    "name": "pronsex",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "pronsex plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cpronsex.sky"
+  },
+  {
+    "packageName": "cprontasia",
+    "name": "prontasia",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "prontasia plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cprontasia.sky"
+  },
+  {
+    "packageName": "cpronzog",
+    "name": "pronzog",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "pronzog plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cpronzog.sky"
+  },
+  {
+    "packageName": "croshytv",
+    "name": "roshytv",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "roshytv plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/croshytv.sky"
+  },
+  {
+    "packageName": "cskystream",
+    "name": "skystream",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "skystream plugin (Sky Gen 2)",
+    "authors": [
+      "techmind09"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cskystream.sky"
+  },
+  {
+    "packageName": "cthepornbang",
+    "name": "thepornbang",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "thepornbang plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cthepornbang.sky"
+  },
+  {
+    "packageName": "ctheyarehuge",
+    "name": "theyarehuge",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "theyarehuge plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/ctheyarehuge.sky"
+  },
+  {
+    "packageName": "cvepron",
+    "name": "vepron",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "vepron plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cvepron.sky"
+  },
+  {
+    "packageName": "cwatchomovies",
+    "name": "watchomovies",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "watchomovies plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cwatchomovies.sky"
+  },
+  {
+    "packageName": "cxmovieforyou",
+    "name": "xmovieforyou",
+    "version": 10,
+    "status": 1,
+    "baseUrl": "https://xmoviesforyou.com/",
+    "description": "xmovieforyou plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cxmovieforyou.sky"
+  },
+  {
+    "packageName": "cxprimehub",
+    "name": "xprimehub",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "xprimehub plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cxprimehub.sky"
+  },
+  {
+    "packageName": "cxxxbp",
+    "name": "xxxbp",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "xxxbp plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cxxxbp.sky"
+  },
+  {
+    "packageName": "cyoujizz",
+    "name": "youjizz",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "youjizz plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cyoujizz.sky"
+  },
+  {
+    "packageName": "cyouperv",
+    "name": "youperv",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "youperv plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/cyouperv.sky"
+  },
+  {
+    "packageName": "czbporn",
+    "name": "zbporn",
+    "version": 1,
+    "baseUrl": "https://example.com",
+    "description": "zbporn plugin for skystream",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/techmind09/skystreamcxxx/main/dist/czbporn.sky"
   }
 ]
