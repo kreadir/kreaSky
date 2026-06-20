@@ -1,5 +1,28 @@
 [
   {
+    "packageName": "com.qwe.skystream.dizibox",
+    "name": "DiziBox",
+    "version": 2,
+    "baseUrl": "https://diziboxizle.com",
+    "description": "DiziBox series provider for SkyStream.",
+    "authors": [
+      "qwe"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Series"
+    ],
+    "domains": [
+      {
+        "name": "DiziBox",
+        "url": "https://diziboxizle.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/dizibox.sky"
+  },
+  {
     "packageName": "com.kreastream.dizifilm",
     "name": "DiziFilm",
     "version": 4,
@@ -18,9 +41,89 @@
     "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziFilm.sky"
   },
   {
+    "packageName": "com.byayzen.dizipal",
+    "name": "Dizipal",
+    "version": 1,
+    "baseUrl": "https://dizipal.im",
+    "description": "Dizipal plugin (Sky Gen 2)",
+    "authors": [
+      "ByAyzen"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziPal.sky"
+  },
+  {
+    "packageName": "com.qwe.skystream.dizipal",
+    "name": "DiziPal",
+    "version": 2,
+    "baseUrl": "https://dizipal.im",
+    "description": "DiziPal provider for SkyStream with remote domain resolution.",
+    "authors": [
+      "qwe"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "Series",
+      "Anime"
+    ],
+    "domains": [
+      {
+        "name": "DiziPal Auto",
+        "url": "https://dizipal.im"
+      },
+      {
+        "name": "DiziPal Orijinal",
+        "url": "https://dizipal1555.com"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/dizipal.sky"
+  },
+  {
+    "packageName": "com.kreastream.diziyou",
+    "name": "DiziYou",
+    "description": "Turkish TV Series provider - DiziYou",
+    "author": "KreaStream",
+    "version": 1,
+    "baseUrl": "https://www.diziyou.one",
+    "type": "series",
+    "language": "tr",
+    "domains": [
+      {
+        "name": "diziyou.one",
+        "url": "https://www.diziyou.one"
+      }
+    ],
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziYou.sky"
+  },
+  {
+    "packageName": "com.byayzen.filmmodu.filmmodu",
+    "name": "filmmodu",
+    "version": 1,
+    "baseUrl": "https://filmmodu.one/",
+    "description": "filmmodu plugin (Sky Gen 2)",
+    "authors": [
+      "ByAyzen"
+    ],
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "Others"
+    ],
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/FilmModu.sky"
+  },
+  {
     "packageName": "com.kreadir.skystream.kreasky",
     "name": "KreaSky",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://www.themoviedb.org",
     "description": "KreaSky – Turkish & global content via TMDB + multiple Turkish stream sources",
     "authors": [
@@ -30,9 +133,27 @@
       "tr"
     ],
     "categories": [
-      "Movie",
-      "TvSeries"
+      "Movies",
+      "TV Series"
     ],
     "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/KreaSky.sky"
+  },
+  {
+    "packageName": "com.byayzen.sinewix",
+    "name": "Sinewix",
+    "version": 1,
+    "baseUrl": "https://ydfvfdizipanel.ru",
+    "description": "Sinewix",
+    "authors": [
+      "ByAyzen"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movie",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/Sinewix.sky"
   }
 ]
