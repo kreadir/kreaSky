@@ -2,7 +2,7 @@
   {
     "packageName": "com.kreadir.skystream.aio",
     "name": "AiO",
-    "version": 2,
+    "version": 3,
     "baseUrl": "https://www.themoviedb.org",
     "description": "AiO – All in one streaming platform",
     "authors": [
@@ -141,7 +141,7 @@
   {
     "packageName": "com.kreadir.skystream.kreasky",
     "name": "KreaSky",
-    "version": 2,
+    "version": 3,
     "baseUrl": "https://www.themoviedb.org",
     "description": "KreaSky – Turkish & global content via TMDB + multiple Turkish stream sources",
     "authors": [
