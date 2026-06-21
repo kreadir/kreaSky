@@ -2,7 +2,7 @@
   {
     "packageName": "com.kreadir.skystream.aio",
     "name": "AiO",
-    "version": 3,
+    "version": 4,
     "baseUrl": "https://www.themoviedb.org",
     "description": "AiO – All in one streaming platform",
     "authors": [
@@ -18,13 +18,13 @@
     "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/AiO.sky"
   },
   {
-    "packageName": "com.qwe.skystream.dizibox",
+    "packageName": "com.kreadir.skystream.dizibox",
     "name": "DiziBox",
-    "version": 2,
+    "version": 3,
     "baseUrl": "https://diziboxizle.com",
     "description": "DiziBox series provider for SkyStream.",
     "authors": [
-      "qwe"
+      "Kreadir"
     ],
     "languages": [
       "tr"
@@ -38,7 +38,7 @@
         "url": "https://diziboxizle.com"
       }
     ],
-    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/dizibox.sky"
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/Dizibox.sky"
   },
   {
     "packageName": "com.kreastream.dizifilm",
@@ -59,13 +59,13 @@
     "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziFilm.sky"
   },
   {
-    "packageName": "com.byayzen.dizipal",
+    "packageName": "com.kreadir.skystream.dizipal",
     "name": "Dizipal",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://dizipal.im",
     "description": "Dizipal plugin (Sky Gen 2)",
     "authors": [
-      "ByAyzen"
+      "Kreadir"
     ],
     "languages": [
       "en"
@@ -74,35 +74,6 @@
       "Others"
     ],
     "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziPal.sky"
-  },
-  {
-    "packageName": "com.qwe.skystream.dizipal",
-    "name": "DiziPal",
-    "version": 2,
-    "baseUrl": "https://dizipal.im",
-    "description": "DiziPal provider for SkyStream with remote domain resolution.",
-    "authors": [
-      "qwe"
-    ],
-    "languages": [
-      "tr"
-    ],
-    "categories": [
-      "Movies",
-      "Series",
-      "Anime"
-    ],
-    "domains": [
-      {
-        "name": "DiziPal Auto",
-        "url": "https://dizipal.im"
-      },
-      {
-        "name": "DiziPal Orijinal",
-        "url": "https://dizipal1555.com"
-      }
-    ],
-    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/dizipal.sky"
   },
   {
     "packageName": "com.kreastream.diziyou",
@@ -122,13 +93,13 @@
     "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/DiziYou.sky"
   },
   {
-    "packageName": "com.byayzen.filmmodu.filmmodu",
+    "packageName": "com.kreadir.skystream.filmmodu",
     "name": "filmmodu",
-    "version": 1,
+    "version": 2,
     "baseUrl": "https://filmmodu.one/",
     "description": "filmmodu plugin (Sky Gen 2)",
     "authors": [
-      "ByAyzen"
+      "Kreadir"
     ],
     "languages": [
       "en"
@@ -157,13 +128,13 @@
     "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/KreaSky.sky"
   },
   {
-    "packageName": "com.byayzen.sinewix",
+    "packageName": "com.kreadir.skystream.sinewix",
     "name": "Sinewix",
-    "version": 1,
+    "version": 5,
     "baseUrl": "https://ydfvfdizipanel.ru",
     "description": "Sinewix",
     "authors": [
-      "ByAyzen"
+      "Kreadir"
     ],
     "languages": [
       "tr"
