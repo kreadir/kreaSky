@@ -1,5 +1,23 @@
 [
   {
+    "packageName": "com.kreadir.skystream.aio",
+    "name": "AiO",
+    "version": 2,
+    "baseUrl": "https://www.themoviedb.org",
+    "description": "AiO – All in one streaming platform",
+    "authors": [
+      "Kreadir"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "categories": [
+      "Movies",
+      "TV Series"
+    ],
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/AiO.sky"
+  },
+  {
     "packageName": "com.qwe.skystream.dizibox",
     "name": "DiziBox",
     "version": 2,
