@@ -128,6 +128,33 @@
     "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/KreaSky.sky"
   },
   {
+    "packageName": "com.kreadir.nuviobridge",
+    "name": "NuvioBridge",
+    "version": 1,
+    "baseUrl": "https://skystream-local",
+    "description": "NuvioBridge scrapes 140+ streaming providers from Nuvio manifests and delivers deduplicated streams with health scoring, adaptive concurrency, and cache warming",
+    "authors": [
+      "Kreadir"
+    ],
+    "languages": [
+      "tr",
+      "en"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon"
+    ],
+    "nuvioManifests": [
+      "https://raw.githubusercontent.com/mooncrown04/nuviotr/refs/heads/main/manifest.json",
+      "https://raw.githubusercontent.com/patr0nq/nuvioaddons/refs/heads/main/manifest.json",
+      "https://raw.githubusercontent.com/onurcvnoglu/nuvio-providers/refs/heads/main/manifest.json",
+      "https://raw.githubusercontent.com/Wekmed/nuviotr/refs/heads/main/manifest.json"
+    ],
+    "url": "https://raw.githubusercontent.com/kreadir/kreaSky/main/NuvioBridge.sky"
+  },
+  {
     "packageName": "com.kreadir.skystream.sinewix",
     "name": "Sinewix",
     "version": 5,
