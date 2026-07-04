@@ -72,7 +72,7 @@ __export(patron666Film_exports, {
 module.exports = __toCommonJS(patron666Film_exports);
 
 // src/patron666Film/http.js
-var MAIN_URL = "https://666filmizle.site";
+var MAIN_URL = "https://sinekfilm.com";
 var HEADERS = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
   "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
